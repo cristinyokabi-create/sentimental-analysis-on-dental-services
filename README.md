@@ -42,7 +42,7 @@ Common positive keywords: friendly, professional, recommend, comfortable.
 Common negative keywords: wait, pain, anxious, problem.
 
 
-# NYC Dental Sentiment Dashboard
+# Dental Sentiment Dashboard
 
 An interactive, browser-based dashboard for visualising sentiment analysis results from NYC dental clinic Google reviews. Built as a final project using Python (VADER NLP) and exported as a standalone HTML file.
 
